@@ -6,3 +6,4 @@
 - 전투 및 체력 시스템 스크립트 기반 마련 (`TopDownCombat.cs`, `Health.cs`) #개선 필요
 - 카메라 추적 스크립트 작성 (`CameraFollow.cs`)
 - 맵 타일 및 씬 기본 세팅 완료
+- 적 체력 바 구현
